@@ -256,7 +256,6 @@ get_header(); ?>
         </div>
       </div>
     </div> -->
-
-    <!-- prices end -->
+    <?php // Потом доделать ?>
 <?php
 get_footer();
