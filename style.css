@@ -1,0 +1,44 @@
+/*!
+Theme Name: Flabio
+Theme URI: http://flabio.kg/
+Author: Arsen
+Author URI: http://flabio.kg/author/arsen
+Description: Arsen
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Tags: custom-theme, custom-logo, custom-menu
+*/
+
+.works__href {
+    position: relative;
+    z-index: 2;
+}
+
+input[type=file].inputfile {
+	display: none;
+}
+
+div.wpcf7 .ajax-loader {
+    display: none;
+}
+
+.brif h2._title {
+    padding-bottom: 0px;
+}
+
+._button-sub {
+	margin-top: 30px;
+}
+
+.popup__items img {
+    margin: 0 0 0 30px;
+    display: block;
+    filter: invert(.2);
+    -webkit-filter: invert(.2);
+    opacity: 1;
+}
+
+.popup__full a img{
+	opacity: 1;
+}
